@@ -340,3 +340,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3026
 [update] : updated 3020
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
