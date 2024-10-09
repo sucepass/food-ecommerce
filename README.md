@@ -907,3 +907,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [fix] : fixed payment-gateway security-updates
 [feat] : fixed responsible-gambling statistics-and-analysis
+[feat] : fixed cryptocurrency-payments personalized-offers
