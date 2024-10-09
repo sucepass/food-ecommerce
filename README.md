@@ -403,3 +403,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-cancellation account-management
 [feat] : fixed multi-language-support mobile-optimization
 [update] : updated 3028
+[hotfix] : fixed 3031
