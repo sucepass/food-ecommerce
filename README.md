@@ -549,3 +549,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3029
 [fix] : fixed user-authentication notification-system
 [feat] : fixed bonus-system customer-support
+[fix] : fixed user-authentication notification-system
