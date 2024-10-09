@@ -908,3 +908,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [feat] : fixed responsible-gambling statistics-and-analysis
 [feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3039
