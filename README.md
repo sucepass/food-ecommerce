@@ -400,3 +400,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3025
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3003
+[fix] : fixed bet-cancellation account-management
