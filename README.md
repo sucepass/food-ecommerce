@@ -876,3 +876,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-integrity user-profile
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3022
+[update] : updated 3000
