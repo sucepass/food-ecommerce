@@ -349,3 +349,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed odds-calculation user-balance
 [update] : updated 2996
 [feat] : fixed live-betting withdrawal-system
+[feat] : fixed advanced-betting-options live-dealer-games
