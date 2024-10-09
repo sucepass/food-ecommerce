@@ -458,3 +458,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed game-result
 [update] : updated 2994
 [fix] : fixed payment-gateway security-updates
+[update] : updated 3002
