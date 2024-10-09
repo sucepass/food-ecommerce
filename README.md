@@ -352,3 +352,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed advanced-betting-options live-dealer-games
 [hotfix] : fixed 2995
 [hotfix] : fixed 3005
+[hotfix] : fixed 3029
