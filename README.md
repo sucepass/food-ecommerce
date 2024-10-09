@@ -953,3 +953,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2994
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed bonus-system customer-support
+[fix] : fixed customer-service user-feedback
