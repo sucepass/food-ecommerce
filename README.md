@@ -559,3 +559,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed match-schedule bet-history
 [update] : updated 2996
+[fix] : fixed payment-gateway security-updates
