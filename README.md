@@ -833,3 +833,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed data-integrity user-profile
 [feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3025
