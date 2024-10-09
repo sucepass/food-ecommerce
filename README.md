@@ -411,3 +411,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3028
 [hotfix] : fixed 3039
 [feat] : fixed blockchain-integration gamification-features
+[feat] : fixed multi-language-support mobile-optimization
