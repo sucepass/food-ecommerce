@@ -593,3 +593,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3028
 [hotfix] : fixed 3005
 [update] : updated 3022
+[fix] : fixed user-verification bet-slip-validation
