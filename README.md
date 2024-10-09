@@ -302,3 +302,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed match-schedule bet-history
+[fix] : fixed user-authentication notification-system
