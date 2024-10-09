@@ -838,3 +838,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3028
 [hotfix] : fixed 3039
 [fix] : fixed account-verification deposit-methods
+[feat] : fixed multi-language-support mobile-optimization
