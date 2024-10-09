@@ -918,3 +918,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed customer-service user-feedback
 [feat] : fixed cash-out-feature live-streaming
+[feat] : fixed live-betting withdrawal-system
