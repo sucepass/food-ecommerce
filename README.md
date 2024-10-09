@@ -727,3 +727,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3027
+[fix] : fixed payment-gateway security-updates
