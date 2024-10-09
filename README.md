@@ -775,3 +775,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [hotfix] : fixed 3041
 [hotfix] : fixed 2997
+[hotfix] : fixed 3029
