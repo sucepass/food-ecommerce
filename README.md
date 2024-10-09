@@ -873,3 +873,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [fix] : fixed user-interface-updates data-analysis
 [hotfix] : fixed 3021
+[fix] : fixed data-integrity user-profile
