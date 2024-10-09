@@ -54,3 +54,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-cancellation account-management
 [update] : updated 2994
 [update] : updated 3030
+[hotfix] : fixed 3023
