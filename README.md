@@ -919,3 +919,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed customer-service user-feedback
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed live-betting withdrawal-system
+[feat] : fixed referral-system personalized-recommendations
