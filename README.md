@@ -331,3 +331,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [update] : updated 3030
 [feat] : fixed cryptocurrency-payments personalized-offers
+[feat] : fixed esports-betting loyalty-program
