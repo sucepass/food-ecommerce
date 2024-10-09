@@ -920,3 +920,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed referral-system personalized-recommendations
+[fix] : fixed bet-limits fraud-detection
