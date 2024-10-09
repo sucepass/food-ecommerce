@@ -916,3 +916,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed voice-command-betting augmented-reality-betting
 [hotfix] : fixed 2995
 [feat] : fixed in-play-betting virtual-sports
+[fix] : fixed customer-service user-feedback
