@@ -528,3 +528,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed customer-service user-feedback
 [hotfix] : fixed 3035
 [fix] : fixed account-verification deposit-methods
+[update] : updated 3008
