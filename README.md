@@ -444,3 +444,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3029
 [update] : updated 3042
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[feat] : fixed cash-out-feature live-streaming
