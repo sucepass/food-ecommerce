@@ -321,3 +321,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3042
 [feat] : fixed referral-system personalized-recommendations
 [fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3033
