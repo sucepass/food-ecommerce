@@ -372,3 +372,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed system-performance user-experience
 [hotfix] : fixed 2999
 [feat] : fixed live-betting withdrawal-system
+[feat] : fixed mobile-app affiliate-program
