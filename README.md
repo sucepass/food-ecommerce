@@ -184,3 +184,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3042
 [hotfix] : fixed 2997
 [fix] : fixed user-authentication notification-system
+[update] : updated 3040
