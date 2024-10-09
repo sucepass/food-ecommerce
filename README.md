@@ -407,3 +407,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [feat] : fixed live-betting withdrawal-system
 [update] : updated 3022
+[fix] : fixed data-security bet-settlement
