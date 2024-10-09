@@ -685,3 +685,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed blockchain-integration gamification-features
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3021
+[feat] : fixed cash-out-feature live-streaming
