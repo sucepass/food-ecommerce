@@ -810,3 +810,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [update] : updated 3028
 [hotfix] : fixed 3023
+[fix] : fixed bet-limits fraud-detection
