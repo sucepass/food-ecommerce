@@ -482,3 +482,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3025
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed responsible-gambling statistics-and-analysis
+[update] : updated 2996
