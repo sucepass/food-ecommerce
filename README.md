@@ -616,3 +616,6 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [hotfix] : fixed 3031
 [feat] : fixed bonus-system customer-support
+[feat] : fixed cryptocurrency-payments personalized-offers
+[update] : updated 3028
+[fix] : fixed user-interface-updates data-analysis
