@@ -30,3 +30,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-cancellation account-management
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [feat] : fixed esports-betting loyalty-program
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
