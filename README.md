@@ -607,3 +607,6 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3002
 [fix] : fixed data-integrity user-profile
+[update] : updated 3032
+[update] : updated 3038
+[update] : updated 3034
