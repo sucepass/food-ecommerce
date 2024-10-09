@@ -404,3 +404,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [update] : updated 3028
 [hotfix] : fixed 3031
+[feat] : fixed mobile-app affiliate-program
