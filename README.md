@@ -103,3 +103,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed blockchain-integration gamification-features
 [hotfix] : fixed 3025
 [feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3029
