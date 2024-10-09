@@ -600,3 +600,7 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3039
 [feat] : fixed game-result
+[feat] : fixed esports-betting loyalty-program
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 2996
+[hotfix] : fixed 3023
