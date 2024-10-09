@@ -58,3 +58,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3027
+[feat] : fixed cash-out-feature live-streaming
