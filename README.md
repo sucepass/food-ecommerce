@@ -358,3 +358,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-improvements system-stability
 [hotfix] : fixed 3033
 [fix] : fixed customer-service user-feedback
+[fix] : fixed odds-calculation user-balance
