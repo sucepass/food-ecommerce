@@ -538,3 +538,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3023
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 2993
+[feat] : fixed responsible-gambling statistics-and-analysis
