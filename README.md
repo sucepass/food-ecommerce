@@ -902,3 +902,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [hotfix] : fixed 3031
+[fix] : fixed user-account-security bet-slip-errors
