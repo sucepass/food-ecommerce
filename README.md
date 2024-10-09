@@ -307,3 +307,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3040
 [fix] : fixed payment-gateway security-updates
 [fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3005
