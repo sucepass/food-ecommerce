@@ -438,3 +438,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3005
+[hotfix] : fixed 3031
