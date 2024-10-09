@@ -221,3 +221,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-updates data-analysis
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [update] : updated 3000
+[feat] : fixed blockchain-integration gamification-features
