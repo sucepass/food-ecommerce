@@ -473,3 +473,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2994
 [feat] : fixed game-result
 [feat] : fixed tournament-betting live-chat-support
+[hotfix] : fixed 3025
