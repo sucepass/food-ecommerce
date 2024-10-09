@@ -784,3 +784,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [feat] : fixed promotional-offers social-media-integration
 [fix] : fixed bet-slip-management user-interface
+[update] : updated 3000
