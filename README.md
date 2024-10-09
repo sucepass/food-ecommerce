@@ -688,3 +688,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3021
+[feat] : fixed mobile-app affiliate-program
