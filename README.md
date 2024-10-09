@@ -958,3 +958,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3032
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [update] : updated 3028
+[hotfix] : fixed 3007
