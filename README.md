@@ -922,3 +922,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed referral-system personalized-recommendations
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed account-verification deposit-methods
+[feat] : fixed cash-out-feature live-streaming
