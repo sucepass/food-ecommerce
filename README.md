@@ -422,3 +422,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [fix] : fixed user-verification bet-slip-validation
 [feat] : fixed tournament-betting live-chat-support
+[hotfix] : fixed 3023
