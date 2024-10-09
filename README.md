@@ -380,3 +380,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed multi-language-support mobile-optimization
+[feat] : fixed referral-system personalized-recommendations
