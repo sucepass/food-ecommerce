@@ -903,3 +903,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [hotfix] : fixed 3031
 [fix] : fixed user-account-security bet-slip-errors
+[feat] : fixed cash-out-feature live-streaming
