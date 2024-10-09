@@ -345,3 +345,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2999
 [fix] : fixed data-integrity user-profile
 [update] : updated 3028
+[hotfix] : fixed 3025
