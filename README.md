@@ -834,3 +834,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-integrity user-profile
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3025
+[fix] : fixed payment-gateway security-updates
