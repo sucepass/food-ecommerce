@@ -271,3 +271,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 2997
+[hotfix] : fixed 2995
