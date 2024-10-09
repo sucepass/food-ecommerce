@@ -416,3 +416,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3023
 [update] : updated 3022
 [fix] : fixed match-schedule bet-history
+[fix] : fixed bet-slip-management user-interface
+[update] : updated 3036
