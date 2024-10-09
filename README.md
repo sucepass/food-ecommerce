@@ -237,3 +237,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3024
 [hotfix] : fixed 3002
+[feat] : fixed cash-out-feature live-streaming
