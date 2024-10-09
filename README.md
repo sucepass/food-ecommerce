@@ -51,3 +51,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3021
 [fix] : fixed payment-gateway security-updates
+[fix] : fixed bet-cancellation account-management
