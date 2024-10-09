@@ -795,3 +795,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3022
 [hotfix] : fixed 3029
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[fix] : fixed match-schedule bet-history
