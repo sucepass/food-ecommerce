@@ -921,3 +921,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed referral-system personalized-recommendations
 [fix] : fixed bet-limits fraud-detection
+[fix] : fixed account-verification deposit-methods
