@@ -398,3 +398,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-verification bet-slip-validation
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [hotfix] : fixed 3025
+[feat] : fixed esports-betting loyalty-program
