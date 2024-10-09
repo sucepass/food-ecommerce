@@ -101,3 +101,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed responsible-gambling statistics-and-analysis
 [fix] : fixed data-integrity user-profile
 [feat] : fixed blockchain-integration gamification-features
+[hotfix] : fixed 3025
