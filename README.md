@@ -766,3 +766,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3031
 [update] : updated 3004
 [feat] : fixed in-play-betting virtual-sports
+[feat] : fixed live-betting withdrawal-system
