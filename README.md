@@ -804,3 +804,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3029
 [fix] : fixed bet-limits fraud-detection
+[fix] : fixed match-schedule bet-history
