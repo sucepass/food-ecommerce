@@ -65,3 +65,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3039
 [fix] : fixed data-integrity user-profile
 [hotfix] : fixed 2997
+[feat] : fixed esports-betting loyalty-program
