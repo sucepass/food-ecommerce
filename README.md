@@ -330,3 +330,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [hotfix] : fixed 3027
 [update] : updated 3030
+[feat] : fixed cryptocurrency-payments personalized-offers
