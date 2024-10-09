@@ -507,3 +507,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed user-feedback-system payment-security
 [fix] : fixed data-integrity user-profile
+[fix] : fixed user-verification bet-slip-validation
