@@ -368,3 +368,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed bet-limits fraud-detection
 [hotfix] : fixed 3027
+[fix] : fixed bet-limits fraud-detection
