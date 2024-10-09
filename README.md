@@ -489,3 +489,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed game-result
 [hotfix] : fixed 3037
 [fix] : fixed bet-slip-errors payment-processing
+[hotfix] : fixed 3039
