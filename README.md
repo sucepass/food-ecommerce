@@ -806,3 +806,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3005
+[fix] : fixed odds-calculation user-balance
