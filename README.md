@@ -917,3 +917,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2995
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed customer-service user-feedback
+[feat] : fixed cash-out-feature live-streaming
