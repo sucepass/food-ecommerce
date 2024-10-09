@@ -599,3 +599,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3039
+[feat] : fixed game-result
