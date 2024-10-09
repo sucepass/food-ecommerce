@@ -326,3 +326,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [update] : updated 3036
 [hotfix] : fixed 3023
+[hotfix] : fixed 3029
