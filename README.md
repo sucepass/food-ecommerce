@@ -535,3 +535,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed esports-betting loyalty-program
 [fix] : fixed customer-service user-feedback
+[hotfix] : fixed 3023
