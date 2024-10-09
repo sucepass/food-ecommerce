@@ -105,3 +105,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3029
 [update] : updated 3024
+[fix] : fixed bet-slip-management user-interface
