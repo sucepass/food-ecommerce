@@ -939,3 +939,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed user-authentication notification-system
 [fix] : fixed user-authentication notification-system
+[fix] : fixed data-security bet-settlement
