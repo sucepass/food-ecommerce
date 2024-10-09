@@ -441,3 +441,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3031
 [hotfix] : fixed 3002
 [feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3029
