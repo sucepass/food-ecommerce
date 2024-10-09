@@ -843,3 +843,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [feat] : fixed game-result
 [fix] : fixed data-integrity user-profile
+[hotfix] : fixed 3039
