@@ -466,3 +466,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2994
 [fix] : fixed data-security bet-settlement
 [update] : updated 3036
+[hotfix] : fixed 3021
