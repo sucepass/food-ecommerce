@@ -569,3 +569,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed user-interface-improvements system-stability
 [hotfix] : fixed 3005
+[hotfix] : fixed 3029
