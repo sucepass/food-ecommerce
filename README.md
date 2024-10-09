@@ -126,3 +126,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3002
 [update] : updated 3020
 [update] : updated 3020
+[feat] : fixed cash-out-feature live-streaming
