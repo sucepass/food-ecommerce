@@ -801,3 +801,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed bonus-system customer-support
 [hotfix] : fixed 3025
 [hotfix] : fixed 2997
+[fix] : fixed payment-gateway security-updates
