@@ -807,3 +807,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3005
 [fix] : fixed odds-calculation user-balance
+[feat] : fixed live-betting withdrawal-system
