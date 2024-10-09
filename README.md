@@ -913,3 +913,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [fix] : fixed data-integrity user-profile
 [update] : updated 3020
+[feat] : fixed voice-command-betting augmented-reality-betting
