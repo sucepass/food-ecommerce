@@ -81,3 +81,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2993
 [update] : updated 2996
 [feat] : fixed responsible-gambling statistics-and-analysis
+[feat] : fixed voice-command-betting augmented-reality-betting
