@@ -694,3 +694,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 2997
 [feat] : fixed in-play-betting virtual-sports
+[update] : updated 3000
