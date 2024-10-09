@@ -158,3 +158,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3030
 [fix] : fixed user-verification bet-slip-validation
 [hotfix] : fixed 3023
+[fix] : fixed user-authentication notification-system
