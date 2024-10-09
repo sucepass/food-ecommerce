@@ -453,3 +453,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed esports-betting loyalty-program
 [fix] : fixed bet-slip-management user-interface
+[fix] : fixed data-security bet-settlement
