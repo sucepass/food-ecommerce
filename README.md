@@ -161,3 +161,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [fix] : fixed user-account-security bet-slip-errors
 [hotfix] : fixed 3037
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3039
