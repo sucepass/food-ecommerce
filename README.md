@@ -781,3 +781,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3024
 [fix] : fixed data-security bet-settlement
 [fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3027
