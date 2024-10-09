@@ -476,3 +476,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3025
 [update] : updated 3008
 [feat] : fixed game-result
+[update] : updated 3006
