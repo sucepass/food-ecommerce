@@ -765,3 +765,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3002
 [hotfix] : fixed 3031
 [update] : updated 3004
+[feat] : fixed in-play-betting virtual-sports
