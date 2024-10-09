@@ -173,3 +173,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2998
 [fix] : fixed user-account-security bet-slip-errors
 [fix] : fixed user-account-security bet-slip-errors
+[feat] : fixed live-betting withdrawal-system
