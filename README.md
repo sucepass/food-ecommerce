@@ -133,3 +133,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3002
 [fix] : fixed match-schedule bet-history
 [fix] : fixed bet-slip-management user-interface
+[feat] : fixed esports-betting loyalty-program
