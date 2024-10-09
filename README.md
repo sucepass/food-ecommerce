@@ -180,3 +180,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed blockchain-integration gamification-features
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3032
+[feat] : fixed promotional-offers social-media-integration
