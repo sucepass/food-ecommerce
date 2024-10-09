@@ -155,3 +155,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3025
+[update] : updated 3030
