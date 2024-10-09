@@ -552,3 +552,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-interface-improvements system-stability
+[feat] : fixed referral-system personalized-recommendations
