@@ -851,3 +851,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3023
 [fix] : fixed payment-gateway security-updates
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[feat] : fixed in-play-betting virtual-sports
