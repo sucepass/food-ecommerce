@@ -255,3 +255,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [fix] : fixed account-verification deposit-methods
+[update] : updated 3028
