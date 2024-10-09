@@ -545,3 +545,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cryptocurrency-payments personalized-offers
 [feat] : fixed cash-out-feature live-streaming
 [hotfix] : fixed 3007
+[hotfix] : fixed 3021
