@@ -498,3 +498,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3000
 [fix] : fixed odds-calculation user-balance
+[fix] : fixed match-schedule bet-history
