@@ -862,3 +862,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3002
 [fix] : fixed user-verification bet-slip-validation
 [fix] : fixed customer-service user-feedback
+[feat] : fixed mobile-app affiliate-program
