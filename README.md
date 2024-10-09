@@ -350,3 +350,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2996
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed advanced-betting-options live-dealer-games
+[hotfix] : fixed 2995
