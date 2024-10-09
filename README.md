@@ -887,3 +887,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3038
 [fix] : fixed bet-cancellation account-management
 [fix] : fixed data-security bet-settlement
+[feat] : fixed in-play-betting virtual-sports
