@@ -594,3 +594,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3005
 [update] : updated 3022
 [fix] : fixed user-verification bet-slip-validation
+[feat] : fixed in-play-betting virtual-sports
+[update] : updated 2994
