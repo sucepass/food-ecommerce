@@ -909,3 +909,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed responsible-gambling statistics-and-analysis
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3039
+[feat] : fixed loyalty-rewards virtual-reality-betting
