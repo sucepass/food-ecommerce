@@ -308,3 +308,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3005
+[feat] : fixed live-betting withdrawal-system
