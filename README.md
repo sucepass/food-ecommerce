@@ -35,3 +35,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed voice-command-betting augmented-reality-betting
 [update] : updated 3028
 [feat] : fixed cash-out-feature live-streaming
+[update] : updated 3020
