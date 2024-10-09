@@ -113,3 +113,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [feat] : fixed advanced-betting-options live-dealer-games
 [update] : updated 2998
+[hotfix] : fixed 3003
