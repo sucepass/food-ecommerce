@@ -249,3 +249,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3025
 [update] : updated 3004
+[feat] : fixed cryptocurrency-payments personalized-offers
