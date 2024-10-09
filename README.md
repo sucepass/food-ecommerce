@@ -906,3 +906,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [fix] : fixed payment-gateway security-updates
+[feat] : fixed responsible-gambling statistics-and-analysis
