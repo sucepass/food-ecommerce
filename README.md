@@ -929,3 +929,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3025
 [fix] : fixed account-verification deposit-methods
+[fix] : fixed user-account-security bet-slip-errors
