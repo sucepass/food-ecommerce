@@ -188,3 +188,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [fix] : fixed user-feedback-system payment-security
 [feat] : fixed voice-command-betting augmented-reality-betting
+[update] : updated 3002
