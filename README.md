@@ -886,3 +886,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-errors payment-processing
 [update] : updated 3038
 [fix] : fixed bet-cancellation account-management
+[fix] : fixed data-security bet-settlement
