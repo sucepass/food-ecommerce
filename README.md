@@ -954,3 +954,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed bonus-system customer-support
 [fix] : fixed customer-service user-feedback
+[feat] : fixed cash-out-feature live-streaming
