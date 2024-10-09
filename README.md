@@ -185,3 +185,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2997
 [fix] : fixed user-authentication notification-system
 [update] : updated 3040
+[feat] : fixed live-betting withdrawal-system
