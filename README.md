@@ -26,3 +26,7 @@ https://peter-kimanzi.github.io/food-ecommerce/
 
 ![foody3](https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG)
 
+[hotfix] : fixed 3025
+[fix] : fixed bet-cancellation account-management
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[feat] : fixed esports-betting loyalty-program
