@@ -383,3 +383,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed referral-system personalized-recommendations
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3007
+[hotfix] : fixed 2993
