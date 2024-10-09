@@ -426,3 +426,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-feedback-system payment-security
 [feat] : fixed blockchain-integration gamification-features
 [fix] : fixed user-feedback-system payment-security
+[fix] : fixed match-schedule bet-history
