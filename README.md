@@ -931,3 +931,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed user-account-security bet-slip-errors
 [hotfix] : fixed 3021
+[hotfix] : fixed 3025
