@@ -874,3 +874,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-updates data-analysis
 [hotfix] : fixed 3021
 [fix] : fixed data-integrity user-profile
+[fix] : fixed payment-gateway security-updates
