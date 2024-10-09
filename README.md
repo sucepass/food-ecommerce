@@ -555,3 +555,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed referral-system personalized-recommendations
 [update] : updated 3038
 [feat] : fixed cash-out-feature live-streaming
+[feat] : fixed in-play-betting virtual-sports
