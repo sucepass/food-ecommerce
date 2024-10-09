@@ -509,3 +509,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-integrity user-profile
 [fix] : fixed user-verification bet-slip-validation
 [fix] : fixed user-account-security bet-slip-errors
+[feat] : fixed voice-command-betting augmented-reality-betting
