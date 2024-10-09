@@ -136,3 +136,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [fix] : fixed user-feedback-system payment-security
 [fix] : fixed payment-gateway security-updates
+[feat] : fixed bonus-system customer-support
