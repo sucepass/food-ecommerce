@@ -94,3 +94,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3005
 [feat] : fixed bonus-system customer-support
 [fix] : fixed data-security bet-settlement
+[fix] : fixed bet-slip-management user-interface
