@@ -148,3 +148,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-updates data-analysis
 [fix] : fixed user-account-security bet-slip-errors
 [update] : updated 3000
+[feat] : fixed artificial-intelligence-predictions social-betting-features
