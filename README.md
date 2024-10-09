@@ -704,3 +704,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-management user-interface
 [hotfix] : fixed 3039
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[hotfix] : fixed 3029
