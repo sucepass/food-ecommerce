@@ -584,3 +584,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed advanced-betting-options live-dealer-games
 [feat] : fixed cryptocurrency-payments personalized-offers
 [update] : updated 3036
+[update] : updated 2996
+[update] : updated 3026
