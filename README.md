@@ -34,3 +34,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-integrity user-profile
 [feat] : fixed voice-command-betting augmented-reality-betting
 [update] : updated 3028
+[feat] : fixed cash-out-feature live-streaming
