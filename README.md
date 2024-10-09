@@ -941,3 +941,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [fix] : fixed data-security bet-settlement
 [feat] : fixed cash-out-feature live-streaming
+[update] : updated 3006
