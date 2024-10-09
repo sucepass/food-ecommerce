@@ -604,3 +604,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [update] : updated 2996
 [hotfix] : fixed 3023
+[fix] : fixed user-authentication notification-system
