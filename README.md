@@ -40,3 +40,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [feat] : fixed responsible-gambling statistics-and-analysis
 [fix] : fixed user-interface-improvements system-stability
+[update] : updated 2998
