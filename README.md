@@ -379,3 +379,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3003
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed multi-language-support mobile-optimization
