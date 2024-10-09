@@ -506,3 +506,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3025
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed user-feedback-system payment-security
+[fix] : fixed data-integrity user-profile
