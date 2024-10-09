@@ -310,3 +310,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3005
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed game-result
+[feat] : fixed multi-language-support mobile-optimization
