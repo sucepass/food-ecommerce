@@ -396,3 +396,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed user-interface-updates data-analysis
 [fix] : fixed user-verification bet-slip-validation
+[feat] : fixed loyalty-rewards virtual-reality-betting
