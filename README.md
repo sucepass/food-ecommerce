@@ -206,3 +206,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3028
+[update] : updated 2994
