@@ -475,3 +475,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed tournament-betting live-chat-support
 [hotfix] : fixed 3025
 [update] : updated 3008
+[feat] : fixed game-result
