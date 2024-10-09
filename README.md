@@ -519,3 +519,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2996
 [hotfix] : fixed 3031
 [fix] : fixed system-performance user-experience
+[feat] : fixed cryptocurrency-payments personalized-offers
