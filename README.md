@@ -837,3 +837,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3028
 [hotfix] : fixed 3039
+[fix] : fixed account-verification deposit-methods
