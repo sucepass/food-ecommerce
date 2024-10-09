@@ -150,3 +150,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3000
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [update] : updated 2996
+[hotfix] : fixed 3021
