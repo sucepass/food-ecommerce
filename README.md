@@ -192,3 +192,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3026
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [feat] : fixed multi-language-support mobile-optimization
+[hotfix] : fixed 3033
+[fix] : fixed user-verification bet-slip-validation
