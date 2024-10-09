@@ -229,3 +229,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3041
 [fix] : fixed bet-slip-management user-interface
 [feat] : fixed advanced-betting-options live-dealer-games
+[fix] : fixed data-integrity user-profile
+[hotfix] : fixed 3037
