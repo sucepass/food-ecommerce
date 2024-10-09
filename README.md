@@ -194,3 +194,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [hotfix] : fixed 3033
 [fix] : fixed user-verification bet-slip-validation
+[feat] : fixed cash-out-feature live-streaming
