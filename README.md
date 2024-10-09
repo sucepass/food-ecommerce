@@ -493,3 +493,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3034
 [update] : updated 2996
 [fix] : fixed account-verification deposit-methods
+[feat] : fixed loyalty-rewards virtual-reality-betting
