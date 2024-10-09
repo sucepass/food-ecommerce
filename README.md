@@ -860,3 +860,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3042
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3002
+[fix] : fixed user-verification bet-slip-validation
