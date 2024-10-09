@@ -246,3 +246,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-verification bet-slip-validation
 [feat] : fixed cash-out-feature live-streaming
 [hotfix] : fixed 3041
+[fix] : fixed match-schedule bet-history
