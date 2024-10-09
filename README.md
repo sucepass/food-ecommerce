@@ -938,3 +938,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed user-authentication notification-system
+[fix] : fixed user-authentication notification-system
