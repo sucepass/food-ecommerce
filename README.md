@@ -542,3 +542,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3020
 [feat] : fixed bonus-system customer-support
 [update] : updated 3004
+[feat] : fixed cryptocurrency-payments personalized-offers
