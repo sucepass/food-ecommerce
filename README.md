@@ -841,3 +841,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [feat] : fixed in-play-betting virtual-sports
 [feat] : fixed multi-language-support mobile-optimization
+[feat] : fixed game-result
