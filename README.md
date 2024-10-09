@@ -560,3 +560,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [update] : updated 2996
 [fix] : fixed payment-gateway security-updates
+[update] : updated 3006
