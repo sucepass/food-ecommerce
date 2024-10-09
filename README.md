@@ -904,3 +904,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3031
 [fix] : fixed user-account-security bet-slip-errors
 [feat] : fixed cash-out-feature live-streaming
+[feat] : fixed artificial-intelligence-predictions social-betting-features
