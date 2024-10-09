@@ -74,3 +74,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-improvements system-stability
 [update] : updated 3038
 [feat] : fixed cryptocurrency-payments personalized-offers
+[feat] : fixed in-play-betting virtual-sports
