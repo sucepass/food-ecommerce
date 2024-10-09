@@ -853,3 +853,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed match-schedule bet-history
+[feat] : fixed tournament-betting live-chat-support
