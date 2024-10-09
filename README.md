@@ -381,3 +381,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed multi-language-support mobile-optimization
 [feat] : fixed referral-system personalized-recommendations
+[fix] : fixed payment-gateway security-updates
