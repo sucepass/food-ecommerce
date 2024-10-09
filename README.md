@@ -738,3 +738,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-account-security bet-slip-errors
 [fix] : fixed bet-limits fraud-detection
 [update] : updated 2994
+[fix] : fixed bet-cancellation account-management
