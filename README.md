@@ -317,3 +317,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [feat] : fixed responsible-gambling statistics-and-analysis
 [update] : updated 3032
+[feat] : fixed bonus-system customer-support
