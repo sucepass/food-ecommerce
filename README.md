@@ -33,3 +33,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [fix] : fixed data-integrity user-profile
 [feat] : fixed voice-command-betting augmented-reality-betting
+[update] : updated 3028
