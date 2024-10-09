@@ -472,3 +472,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [update] : updated 2994
 [feat] : fixed game-result
+[feat] : fixed tournament-betting live-chat-support
