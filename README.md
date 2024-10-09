@@ -914,3 +914,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-integrity user-profile
 [update] : updated 3020
 [feat] : fixed voice-command-betting augmented-reality-betting
+[hotfix] : fixed 2995
