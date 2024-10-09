@@ -31,3 +31,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [feat] : fixed esports-betting loyalty-program
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed data-integrity user-profile
