@@ -839,3 +839,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3039
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed multi-language-support mobile-optimization
+[feat] : fixed in-play-betting virtual-sports
