@@ -294,3 +294,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-errors payment-processing
 [update] : updated 3020
 [fix] : fixed system-performance user-experience
+[hotfix] : fixed 3039
