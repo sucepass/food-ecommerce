@@ -57,3 +57,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3023
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3027
