@@ -521,3 +521,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed system-performance user-experience
 [feat] : fixed cryptocurrency-payments personalized-offers
 [feat] : fixed esports-betting loyalty-program
+[feat] : fixed cryptocurrency-payments personalized-offers
