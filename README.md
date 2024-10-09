@@ -455,3 +455,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed data-security bet-settlement
 [fix] : fixed user-verification bet-slip-validation
+[feat] : fixed game-result
