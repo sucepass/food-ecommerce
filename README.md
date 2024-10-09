@@ -597,3 +597,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 2994
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3039
