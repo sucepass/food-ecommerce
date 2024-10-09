@@ -228,3 +228,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3041
 [fix] : fixed bet-slip-management user-interface
+[feat] : fixed advanced-betting-options live-dealer-games
