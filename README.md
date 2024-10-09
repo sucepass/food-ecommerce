@@ -49,3 +49,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-account-security bet-slip-errors
 [feat] : fixed mobile-app affiliate-program
 [feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3021
