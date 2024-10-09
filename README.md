@@ -642,3 +642,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [fix] : fixed system-performance user-experience
 [fix] : fixed bet-limits fraud-detection
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 3027
