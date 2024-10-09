@@ -360,3 +360,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed customer-service user-feedback
 [fix] : fixed odds-calculation user-balance
 [update] : updated 3024
+[feat] : fixed game-result
