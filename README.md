@@ -499,3 +499,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3000
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed match-schedule bet-history
+[hotfix] : fixed 3021
