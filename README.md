@@ -623,3 +623,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3026
 [fix] : fixed odds-calculation user-balance
+[update] : updated 2998
