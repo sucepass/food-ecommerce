@@ -96,3 +96,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-security bet-settlement
 [fix] : fixed bet-slip-management user-interface
 [update] : updated 2996
+[fix] : fixed match-schedule bet-history
