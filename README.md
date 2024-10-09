@@ -45,3 +45,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3003
+[update] : updated 3026
