@@ -532,3 +532,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3037
 [update] : updated 3020
 [hotfix] : fixed 2995
+[fix] : fixed bet-slip-errors payment-processing
