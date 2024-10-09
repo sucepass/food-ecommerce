@@ -377,3 +377,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2993
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3003
+[feat] : fixed in-play-betting virtual-sports
