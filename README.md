@@ -726,3 +726,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2994
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3027
