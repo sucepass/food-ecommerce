@@ -47,3 +47,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3003
 [update] : updated 3026
 [fix] : fixed user-account-security bet-slip-errors
+[feat] : fixed mobile-app affiliate-program
