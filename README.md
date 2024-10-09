@@ -861,3 +861,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3002
 [fix] : fixed user-verification bet-slip-validation
+[fix] : fixed customer-service user-feedback
