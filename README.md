@@ -231,3 +231,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed advanced-betting-options live-dealer-games
 [fix] : fixed data-integrity user-profile
 [hotfix] : fixed 3037
+[fix] : fixed user-authentication notification-system
