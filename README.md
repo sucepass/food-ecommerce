@@ -483,3 +483,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed responsible-gambling statistics-and-analysis
 [update] : updated 2996
+[feat] : fixed tournament-betting live-chat-support
