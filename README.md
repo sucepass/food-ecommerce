@@ -170,3 +170,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [hotfix] : fixed 3007
 [feat] : fixed responsible-gambling statistics-and-analysis
+[update] : updated 2998
+[fix] : fixed user-account-security bet-slip-errors
