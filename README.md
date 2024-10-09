@@ -844,3 +844,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed game-result
 [fix] : fixed data-integrity user-profile
 [hotfix] : fixed 3039
+[hotfix] : fixed 3021
