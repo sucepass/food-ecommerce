@@ -540,3 +540,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2993
 [feat] : fixed responsible-gambling statistics-and-analysis
 [update] : updated 3020
+[feat] : fixed bonus-system customer-support
