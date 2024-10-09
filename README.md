@@ -533,3 +533,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3020
 [hotfix] : fixed 2995
 [fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed esports-betting loyalty-program
