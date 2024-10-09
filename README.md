@@ -314,3 +314,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3007
 [feat] : fixed referral-system personalized-recommendations
 [fix] : fixed match-schedule bet-history
+[fix] : fixed bet-limits fraud-detection
