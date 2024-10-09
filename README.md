@@ -130,3 +130,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2998
 [hotfix] : fixed 3025
 [feat] : fixed referral-system personalized-recommendations
+[update] : updated 3002
