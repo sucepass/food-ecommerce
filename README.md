@@ -666,3 +666,16 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 2998
 [hotfix] : fixed 3029
 [hotfix] : fixed 2999
+[feat] : fixed esports-betting loyalty-program
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 3002
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3025
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[hotfix] : fixed 2993
+[fix] : fixed payment-gateway security-updates
+[update] : updated 3042
+[hotfix] : fixed 3033
+[feat] : fixed cash-out-feature live-streaming
+[update] : updated 3022
