@@ -288,3 +288,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed account-verification deposit-methods
 [update] : updated 3026
 [fix] : fixed bet-limits fraud-detection
+[hotfix] : fixed 3029
