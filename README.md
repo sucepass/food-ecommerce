@@ -469,3 +469,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3021
 [fix] : fixed user-authentication notification-system
 [fix] : fixed user-authentication notification-system
+[fix] : fixed match-schedule bet-history
