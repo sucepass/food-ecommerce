@@ -661,3 +661,8 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed system-performance user-experience
 [hotfix] : fixed 3025
 [fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3025
+[feat] : fixed voice-command-betting augmented-reality-betting
+[update] : updated 2998
+[hotfix] : fixed 3029
+[hotfix] : fixed 2999
