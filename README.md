@@ -731,3 +731,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3020
 [update] : updated 3026
 [feat] : fixed bonus-system customer-support
+[hotfix] : fixed 3027
