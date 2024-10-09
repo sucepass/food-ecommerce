@@ -923,3 +923,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed cash-out-feature live-streaming
+[feat] : fixed in-play-betting virtual-sports
