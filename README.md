@@ -320,3 +320,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed bonus-system customer-support
 [update] : updated 3042
 [feat] : fixed referral-system personalized-recommendations
+[fix] : fixed bet-cancellation account-management
