@@ -779,3 +779,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed bet-limits fraud-detection
 [update] : updated 3024
+[fix] : fixed data-security bet-settlement
