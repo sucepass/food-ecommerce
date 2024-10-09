@@ -891,3 +891,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed system-performance user-experience
 [feat] : fixed esports-betting loyalty-program
 [fix] : fixed odds-calculation user-balance
+[feat] : fixed cash-out-feature live-streaming
