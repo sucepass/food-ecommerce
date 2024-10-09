@@ -554,3 +554,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed referral-system personalized-recommendations
 [update] : updated 3038
+[feat] : fixed cash-out-feature live-streaming
