@@ -121,3 +121,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3005
 [feat] : fixed in-play-betting virtual-sports
+[fix] : fixed data-security bet-settlement
