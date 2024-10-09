@@ -177,3 +177,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed data-integrity user-profile
 [update] : updated 3038
+[feat] : fixed blockchain-integration gamification-features
