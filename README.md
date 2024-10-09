@@ -414,3 +414,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed multi-language-support mobile-optimization
 [update] : updated 3042
 [hotfix] : fixed 3023
+[update] : updated 3022
+[fix] : fixed match-schedule bet-history
