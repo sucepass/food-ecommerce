@@ -356,3 +356,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3005
 [fix] : fixed payment-gateway security-updates
 [fix] : fixed user-interface-improvements system-stability
+[hotfix] : fixed 3033
