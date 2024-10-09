@@ -69,3 +69,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3029
 [hotfix] : fixed 2993
+[hotfix] : fixed 3033
