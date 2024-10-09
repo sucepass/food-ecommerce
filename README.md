@@ -361,3 +361,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed odds-calculation user-balance
 [update] : updated 3024
 [feat] : fixed game-result
+[feat] : fixed multi-language-support mobile-optimization
