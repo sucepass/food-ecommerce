@@ -52,3 +52,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3021
 [fix] : fixed payment-gateway security-updates
 [fix] : fixed bet-cancellation account-management
+[update] : updated 2994
