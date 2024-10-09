@@ -962,3 +962,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed bet-slip-errors payment-processing
 [fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3005
