@@ -80,3 +80,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [hotfix] : fixed 2993
 [update] : updated 2996
+[feat] : fixed responsible-gambling statistics-and-analysis
