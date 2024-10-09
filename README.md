@@ -211,3 +211,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3029
 [fix] : fixed account-verification deposit-methods
 [update] : updated 3008
+[fix] : fixed odds-calculation user-balance
