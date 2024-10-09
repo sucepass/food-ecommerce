@@ -106,3 +106,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3029
 [update] : updated 3024
 [fix] : fixed bet-slip-management user-interface
+[update] : updated 3022
