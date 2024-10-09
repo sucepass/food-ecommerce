@@ -197,3 +197,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed tournament-betting live-chat-support
 [update] : updated 3006
+[update] : updated 3034
