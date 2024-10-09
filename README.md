@@ -636,3 +636,6 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3029
 [hotfix] : fixed 3033
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed multi-language-support mobile-optimization
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
