@@ -394,3 +394,5 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed in-play-betting virtual-sports
+[fix] : fixed user-interface-updates data-analysis
+[fix] : fixed user-verification bet-slip-validation
