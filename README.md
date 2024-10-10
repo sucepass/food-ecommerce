@@ -1015,3 +1015,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3026
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3021
+[update] : updated 3020
