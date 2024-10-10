@@ -756,3 +756,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3040
 [hotfix] : fixed 2993
 [feat] : fixed multi-language-support mobile-optimization
+[update] : updated 3022
