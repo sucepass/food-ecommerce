@@ -825,3 +825,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3009
+[hotfix] : fixed 3005
