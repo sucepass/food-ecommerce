@@ -826,3 +826,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3009
 [hotfix] : fixed 3005
+[hotfix] : fixed 2997
