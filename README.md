@@ -811,3 +811,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3028
 [hotfix] : fixed 3023
 [fix] : fixed bet-limits fraud-detection
+[feat] : fixed artificial-intelligence-predictions social-betting-features
