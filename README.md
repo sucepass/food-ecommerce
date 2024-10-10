@@ -1088,3 +1088,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3006
 [update] : updated 3020
 [fix] : fixed payment-gateway security-updates
+[fix] : fixed bet-slip-errors payment-processing
