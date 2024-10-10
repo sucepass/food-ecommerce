@@ -983,3 +983,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3024
 [feat] : fixed bonus-system customer-support
+[feat] : fixed esports-betting loyalty-program
