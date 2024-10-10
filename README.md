@@ -1016,3 +1016,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3021
 [update] : updated 3020
+[update] : updated 2996
