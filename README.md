@@ -1064,3 +1064,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3036
 [hotfix] : fixed 3037
 [hotfix] : fixed 3029
+[fix] : fixed data-integrity user-profile
