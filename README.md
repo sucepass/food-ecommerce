@@ -1007,3 +1007,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed blockchain-integration gamification-features
 [fix] : fixed match-schedule bet-history
 [feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed user-feedback-system payment-security
