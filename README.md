@@ -755,3 +755,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-verification bet-slip-validation
 [update] : updated 3040
 [hotfix] : fixed 2993
+[feat] : fixed multi-language-support mobile-optimization
