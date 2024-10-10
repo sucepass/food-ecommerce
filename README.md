@@ -970,3 +970,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed live-betting withdrawal-system
 [hotfix] : fixed 2993
 [fix] : fixed user-verification bet-slip-validation
+[hotfix] : fixed 2999
