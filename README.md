@@ -757,3 +757,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 2993
 [feat] : fixed multi-language-support mobile-optimization
 [update] : updated 3022
+[feat] : fixed esports-betting loyalty-program
