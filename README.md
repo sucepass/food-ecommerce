@@ -782,3 +782,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed data-security bet-settlement
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3027
+[feat] : fixed promotional-offers social-media-integration
