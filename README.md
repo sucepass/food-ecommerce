@@ -1060,3 +1060,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 3026
 [feat] : fixed advanced-betting-options live-dealer-games
+[update] : updated 2994
