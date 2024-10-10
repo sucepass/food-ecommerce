@@ -990,3 +990,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed bonus-system customer-support
 [update] : updated 3030
 [feat] : fixed mobile-app affiliate-program
+[fix] : fixed user-authentication notification-system
