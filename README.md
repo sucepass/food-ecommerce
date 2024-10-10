@@ -712,3 +712,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3023
 [hotfix] : fixed 3031
 [fix] : fixed payment-gateway security-updates
+[fix] : fixed user-account-security bet-slip-errors
