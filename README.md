@@ -1014,3 +1014,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed cryptocurrency-payments personalized-offers
 [update] : updated 3026
 [fix] : fixed match-schedule bet-history
+[hotfix] : fixed 3021
