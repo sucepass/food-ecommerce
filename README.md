@@ -1020,3 +1020,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed customer-service user-feedback
 [fix] : fixed bet-cancellation account-management
 [update] : updated 3020
+[feat] : fixed responsible-gambling statistics-and-analysis
