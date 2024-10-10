@@ -1045,3 +1045,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [update] : updated 3034
 [feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3009
