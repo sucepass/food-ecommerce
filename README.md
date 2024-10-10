@@ -1068,3 +1068,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [fix] : fixed bet-limits fraud-detection
 [hotfix] : fixed 3031
+[feat] : fixed game-result
