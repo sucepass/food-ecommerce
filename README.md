@@ -991,3 +991,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3030
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3023
