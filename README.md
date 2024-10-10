@@ -1018,3 +1018,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3020
 [update] : updated 2996
 [fix] : fixed customer-service user-feedback
+[fix] : fixed bet-cancellation account-management
