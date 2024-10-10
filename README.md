@@ -1023,3 +1023,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed responsible-gambling statistics-and-analysis
 [fix] : fixed user-authentication notification-system
 [fix] : fixed match-schedule bet-history
+[fix] : fixed bet-slip-management user-interface
