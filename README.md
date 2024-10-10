@@ -1072,3 +1072,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3034
 [fix] : fixed data-security bet-settlement
 [fix] : fixed account-verification deposit-methods
+[fix] : fixed match-schedule bet-history
