@@ -985,3 +985,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed bonus-system customer-support
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3041
+[update] : updated 3000
