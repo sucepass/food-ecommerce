@@ -1008,3 +1008,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed match-schedule bet-history
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-feedback-system payment-security
+[update] : updated 3036
