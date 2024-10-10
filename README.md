@@ -741,3 +741,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-cancellation account-management
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3025
+[hotfix] : fixed 2993
