@@ -1040,3 +1040,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3009
 [fix] : fixed match-schedule bet-history
+[feat] : fixed voice-command-betting augmented-reality-betting
