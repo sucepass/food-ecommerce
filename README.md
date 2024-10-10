@@ -1070,3 +1070,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3031
 [feat] : fixed game-result
 [update] : updated 3034
+[fix] : fixed data-security bet-settlement
