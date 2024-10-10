@@ -1039,3 +1039,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-interface-updates data-analysis
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3009
+[fix] : fixed match-schedule bet-history
