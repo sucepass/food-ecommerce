@@ -1093,3 +1093,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [fix] : fixed data-security bet-settlement
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[feat] : fixed esports-betting loyalty-program
