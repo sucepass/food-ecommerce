@@ -1048,3 +1048,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3009
 [update] : updated 3006
 [feat] : fixed responsible-gambling statistics-and-analysis
+[feat] : fixed mobile-app affiliate-program
