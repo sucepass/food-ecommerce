@@ -998,3 +998,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [feat] : fixed mobile-app affiliate-program
 [update] : updated 2994
+[feat] : fixed tournament-betting live-chat-support
