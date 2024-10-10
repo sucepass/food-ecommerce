@@ -1005,3 +1005,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3003
 [feat] : fixed voice-command-betting augmented-reality-betting
 [feat] : fixed blockchain-integration gamification-features
+[fix] : fixed match-schedule bet-history
