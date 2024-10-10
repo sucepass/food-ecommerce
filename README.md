@@ -701,3 +701,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3021
 [hotfix] : fixed 3035
 [fix] : fixed customer-service user-feedback
+[fix] : fixed bet-slip-management user-interface
