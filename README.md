@@ -809,3 +809,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed odds-calculation user-balance
 [feat] : fixed live-betting withdrawal-system
 [update] : updated 3028
+[hotfix] : fixed 3023
