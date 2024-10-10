@@ -730,3 +730,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3020
 [update] : updated 3026
+[feat] : fixed bonus-system customer-support
