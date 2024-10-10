@@ -734,3 +734,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3027
 [feat] : fixed responsible-gambling statistics-and-analysis
 [update] : updated 3028
+[feat] : fixed advanced-betting-options live-dealer-games
