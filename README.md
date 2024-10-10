@@ -751,3 +751,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3002
 [fix] : fixed user-authentication notification-system
 [fix] : fixed user-account-security bet-slip-errors
+[feat] : fixed multi-language-support mobile-optimization
