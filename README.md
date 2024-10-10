@@ -750,3 +750,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [update] : updated 3028
 [update] : updated 3002
 [fix] : fixed user-authentication notification-system
+[fix] : fixed user-account-security bet-slip-errors
