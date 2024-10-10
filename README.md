@@ -828,3 +828,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3005
 [hotfix] : fixed 2997
 [hotfix] : fixed 2999
+[update] : updated 2996
