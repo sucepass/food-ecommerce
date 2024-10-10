@@ -1021,3 +1021,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed bet-cancellation account-management
 [update] : updated 3020
 [feat] : fixed responsible-gambling statistics-and-analysis
+[fix] : fixed user-authentication notification-system
