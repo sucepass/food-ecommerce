@@ -1003,3 +1003,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3023
 [hotfix] : fixed 3003
+[feat] : fixed voice-command-betting augmented-reality-betting
