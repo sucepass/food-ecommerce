@@ -1024,3 +1024,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [fix] : fixed user-authentication notification-system
 [fix] : fixed match-schedule bet-history
 [fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3029
