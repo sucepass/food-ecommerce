@@ -1028,3 +1028,4 @@ https://peter-kimanzi.github.io/food-ecommerce/
 [hotfix] : fixed 3029
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3002
+[hotfix] : fixed 3029
